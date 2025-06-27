@@ -1,4 +1,3 @@
-# coding-demo
-this is my first repostiory.
+This is my first repostiory.
 <br>
-author - rocky
+Author -- Aryan Yadav 
